@@ -38,7 +38,7 @@ deactivate
 
 ## 実行
 
-`datetime.csv` `user.csv` を用意してください.
+`datetime.csv` `user.csv` を編集してください.
 
 ### `datetime.csv`
 
