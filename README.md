@@ -32,7 +32,7 @@ deactivate
 cd ~/kgrs
 python3 -m venv venv
 . venv/bin/activate
-pip install selenium pandas chrome-driver-binary==（クロームドライバのバージョン番号）
+pip install selenium pandas chromedriver-binary==（クロームドライバのバージョン番号）
 deactivate
 ```
 
