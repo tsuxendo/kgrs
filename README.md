@@ -119,7 +119,7 @@ https://chromedriver.chromium.org/downloads
 cd %userprofile%\kgrs
 py -m venv venv
 call venv\Scripts\activate.bat
-pip install selenium pandas chrome-driver==（クロームドライバのバージョン番号）
+pip install chrome-driver==（クロームドライバのバージョン番号）
 deactivate
 ```
 
@@ -129,6 +129,6 @@ deactivate
 cd ~/kgrs
 python3 -m venv venv
 . venv/bin/activate
-pip install selenium pandas chromedriver-binary==（クロームドライバのバージョン番号）
+pip install chromedriver-binary==（クロームドライバのバージョン番号）
 deactivate
 ```
